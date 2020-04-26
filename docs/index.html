@@ -12,36 +12,42 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      logo: '_media/Tekperfect3.png', 
-      name: 'Python Fundamentals',
-      repo: 'tekperfect/Python-Fundamentals',
-      themeColor: '#126893',
-      loadSidebar: '_sidebar.md',
-      executeScript: true,
-      auto2top: true,
-      autoHeader: true,
-      maxLevel: 6,
-      subMaxLevel: 2,
-      maxLevel: 3,
-      loadNavbar: true,
-      search: {
-        maxAge: 86400000, 
-        paths: "auto",
-        placeholder: 'Search Content...',
-        noData: 'No Results!',
-        depth: 4,
-        hideOtherSidebarContent: false,
-        namespace: 'Full-Stack-Python',
-      },
-      copyCode: {
-        buttonText: '📋 Click to Copy',
-        errorText: '',
-        successText: '✓'
-      },
-      'flexible-alerts': {
-        style: 'flat'
+        logo: '_media/Tekperfect3.png',
+        name: 'Python Fundamentals',
+        repo: 'tekperfect/Python-Fundamentals',
+        themeColor: '#126893',
+        formatUpdated: '{MM}/{DD} {HH}:{mm}',
+        executeScript: true,
+        auto2top: true,
+        autoHeader: true,
+        loadSidebar: true,
+        maxLevel: 6,
+        subMaxLevel: 2,
+        el: "#app",
+        maxLevel: 3,
+        loadNavbar: true,
+        themeable: {
+          readyTransition: true,
+          responsiveTables: true
+        },
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: "auto",
+          placeholder: 'Search Content...',
+          noData: 'No Results!',
+          depth: 4,
+          hideOtherSidebarContent: false,
+          namespace: 'Full-Stack-Python',
+        },
+        copyCode: {
+          buttonText: '📋 Click to Copy',
+          errorText: 'x',
+          successText: '✓'
+        },
+        'flexible-alerts': {
+          style: 'flat'
+        }
       }
-    }
   </script>
    <script src="//unpkg.com/docsify-themeable"></script>
    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
@@ -76,7 +82,7 @@
    <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
    <script>
      if (typeof navigator.serviceWorker !== 'undefined') {
-       navigator.serviceWorker.register('Web/sw.js')
+       navigator.serviceWorker.register('sw.js')
      }
    </script>
  </body>

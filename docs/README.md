@@ -1,19 +1,29 @@
-# Programing Fundamental - Intro to Python
+# DevOps: Python Fundamentals
 
-## Prerequisite
-- Tekperfect: [Computer Setup]()
+1. [Course Description](#course-description)
+2. [Prerequisites](#prerequisites)
+3. [Learning Outcomes](#learning-outcomes)
+4. [Lessons](#lessons)
 
-## Learning Objectives
+## Course Description
 
-Basic understanding of programing
+In this course, DevOps students will learn the core basics of python3; it practicality and versatility.
 
-# Lessons
+## Prerequisites
 
-Getting Started
+* [Tekperfect: Computer Setup](#)
 
-Data Types
+## Learning Outcomes
 
-Looping
+Students by the end of the course will be able to...
 
-Logic and Comparisons
+1. Understand basic coding structures
+1. Undertand libraries and modules
+1. Create basic scripts
 
+## Lessons
+
+- Getting Started
+- Data Types
+- looping
+- Logic and Comparisons
