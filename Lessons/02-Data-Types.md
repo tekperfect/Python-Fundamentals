@@ -2,11 +2,11 @@
 
 ### ⏱ Agenda
 
-1. [🏆 Learning Objectives]()
-1. [📖 What are Data Types]()
-1. [📊 Data Types]()
-1. [🐍 REPL - Try It Yourself!]()
-1. [📚 Resources & Credits]()
+1. [🏆 Learning Objectives](#%f0%9f%8f%86-learning-objectives)
+1. [📖 What are Data Types](#%f0%9f%93%96-what-are-data-types)
+1. [📊 Data Types](#%f0%9f%93%8a-data-types)
+1. [🐍 REPL - Try It Yourself!](#%f0%9f%90%8d-repl-try-it-yourself)
+1. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
 
 ## 🏆 Learning Objectives
 
@@ -83,7 +83,7 @@ seus = {'fish': 3, 'red': 1, 'blue': 1, 'green': 1}
 ```
 
 
-### 🐍 REPL - Try It Yourself!
+## 🐍 REPL - Try It Yourself!
 Python has a built-in function called type() to find out what type of data it is. Try it yourself with these:
 
 ```python
@@ -115,13 +115,5 @@ question6 = 123.04
 ```python
 question7 = {"Dog": 200}
 ```
-### 📚 Resources & Credits
+## 📚 Resources & Credits
 - [W3Schools](https://www.w3schools.com/python/python_datatypes.asp)
-
-
-
-
-
-
-
-

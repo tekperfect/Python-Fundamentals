@@ -5,10 +5,10 @@
 ### ⏱ Agenda
 
 1. [🏆 Learning Objectives](#%f0%9f%8f%86-learning-objectives)
-2. [📖 Discovering Python](#%f0%9f%93%96-discovering-python)
-3. [🐍 REPL - Python Interactive Shell](#%f0%9f%90%8d-repl-python-interactive-shell)
-4. [✏️ Python Syntax](#%e2%9c%8f%ef%b8%8f-python-syntax)
-5. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
+1. [📖 Discovering Python](#%f0%9f%93%96-discovering-python)
+1. [🐍 REPL - Python Interactive Shell](#%f0%9f%90%8d-repl-python-interactive-shell)
+1. [✏️ Python Syntax](#%e2%9c%8f%ef%b8%8f-python-syntax)
+1. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
 
 ## 🏆 Learning Objectives
 
