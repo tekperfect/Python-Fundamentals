@@ -3,7 +3,7 @@
 ### ⏱ Agenda
 
 1. [🏆 Learning Objectives](#%f0%9f%8f%86-learning-objectives)
-1. [📖 What are Data Types](#%f0%9f%93%96-what-are-data-types)
+1. [📖 Understanding Data Types](#%f0%9f%93%96-what-are-data-types)
 1. [📊 Data Types](#%f0%9f%93%8a-data-types)
 1. [🐍 REPL - Try It Yourself!](#%f0%9f%90%8d-repl-try-it-yourself)
 1. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
@@ -17,7 +17,7 @@
 3. What data type is best for what
 4. Best pratise for data types
 
-## 📖 What are Data Types?
+## 📖 Understanding Data Types
 
 Data types are the classification or categorization of data items. Data types represent a kind of value which determines what operations can be performed on that data. The most basic types can be classifed under as Numeric, Sequence, Boolean and Dictionary
 
@@ -27,6 +27,10 @@ Data types are the classification or categorization of data items. Data types re
 
 
 ## 📊 Data Types
+All of these data types will be assigned to a variable: variables are refrence to the data. The name is always on the left side equal to the data
+```python
+name_of_variable = "Data"
+```
 ### Numeric
 A Numeric value is any data represented as a Numeral:
 
