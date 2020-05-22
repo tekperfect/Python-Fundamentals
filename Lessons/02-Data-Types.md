@@ -121,24 +121,6 @@ question6 = 123.04
 ```python
 question7 = {"Dog": 200}
 ```
-Try this:
-
-```python
-answer_str = None # Change
-answer_float = None # Change
-answer_int = None # Change
-
-
-
-if mystring == "hello":
-    print("String: %s" % answer_str ) # Str test
-
-if isinstance(answer_float, float) and answer_float == 10.0:
-    print("Float: %f" % answer_float) # Float test
-
-if isinstance(answer_int, int) and answer_int == 20:
-    print("Integer: %d" % answer_int) # int test
-```
 
 ### Take 10 min breather
 
@@ -251,6 +233,22 @@ print("dogs are {}" == "dogs are Human's Best Friend") # Use Format
 print(dogs == ["German Shepherd", "Golden REtriever", "Rottweile"])
 ```
 
+```python
+answer_str = None # Change
+answer_float = None # Change
+answer_int = None # Change
+
+
+
+if mystring == "hello":
+    print("String: %s" % answer_str ) # Str test
+
+if isinstance(answer_float, float) and answer_float == 10.0:
+    print("Float: %f" % answer_float) # Float test
+
+if isinstance(answer_int, int) and answer_int == 20:
+    print("Integer: %d" % answer_int) # int test
+```
 
 
 
