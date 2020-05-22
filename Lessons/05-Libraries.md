@@ -3,7 +3,7 @@
 ### ⏱ Agenda
 
 1. [🏆 Learning Objectives](#%f0%9f%8f%86-learning-objectives)
-1. [📖 Understanding libraries]()
+1. [📖 Understanding libraries](#%f0%9f%93%96-understanding-libraries)
 1. [🍵 Programing](#%f0%9f%8d%b5-programing)
 1. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
 
@@ -34,7 +34,7 @@ from string import ascii_letters, digits  # Importing a single or multiple modul
 print(digits)
 print(ascii_letters)
 ```
-So its `from` name of libray `import` module **or** `import` name of library
+So its `from` _name of libray_ `import`_module_ **or** `import` _name of library_
 
 ### Importing outside libraries
 If you want to install a foreign library, it's super easy! all you have to do is:
@@ -55,7 +55,8 @@ Make a script that will ask for a color and return a specific color and only imp
 
 ```python
 '''
-script will asks for a color and the text is returned with the appropiate Fore color and will repeat in till teh User crtl-s or enters exit
+script will asks for a color and the text is returned with the appropiate Fore color 
+and will repeat in till teh User crtl-s or enters exit
 '''
 from colorama import None
 ```

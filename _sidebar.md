@@ -2,6 +2,7 @@
 - **[📅 Lessons](/README.md?id=lessons)**
   - [Getting Started](Lessons/01-Getting-Started)
   - [Variables & Data Types](Lessons/02-Data-Types)
-  - [looping](Lessons/03-Looping)
+  - [Math & Looping](Lessons/03-Looping)
   - [Logic & Comparisons](Lessons/04-Logic-n-comparisons)
+  - [Libraries](Lessons/05-Libraries)
 - **🗒️Assessments**
