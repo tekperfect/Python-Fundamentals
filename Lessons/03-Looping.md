@@ -5,6 +5,7 @@
 1. [🏆 Learning Objectives](#%f0%9f%8f%86-learning-objectives)
 1. [📖 Understanding Python Math and Looping](#%f0%9f%93%96-understanding-python-math-and-looping)
 1. [🐍 REPL - Try It Yourself!](#%f0%9f%90%8d-repl-try-it-yourself)
+1. [🍵 Programing](#%f0%9f%8d%b5-programing)
 1. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
 
 ## 🏆 Learning Objectives
@@ -113,6 +114,20 @@ the operators aren't limited to numbers, they can compare strings as well, try t
 
 ```python
 "asdasdadsadsad" == "asdasdasdasdadasd"
+```
+## 🍵 Programing
+Create a new list that has +5 from an old list
+```python
+list_num = [1,2,3,4]
+new_list = []
+for None in None:
+    # hint new_list.
+```
+Create a while loop that wait for the user to say the correct answer for whats 2 + 5
+
+```python
+while None:
+    # hint use input
 ```
 
 ## 📚 Resources & Credits
