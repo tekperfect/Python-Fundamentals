@@ -1,4 +1,4 @@
-# ➰ Day 4: Looping
+# ➰ Day 4: Math & Looping
 
 ### ⏱ Agenda
 
@@ -11,7 +11,8 @@
 
 **By the end of this, you'll be able to...**
 
-1. content 
+1. Understand conditionals
+1. Cases to repeat a code
 
 ## 📖 Understanding Looping
 Looping is exactly what it sounds like! The act of repeating, in programing we are talking about repeating the same bit of code ounce a condition is completed _otherwise it will repeat forever_.

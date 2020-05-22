@@ -1,7 +1,7 @@
 - **[📋 Syllabus](/README.md)**
 - **[📅 Lessons](/README.md?id=lessons)**
   - [Getting Started](Lessons/01-Getting-Started)
-  - [Data Types](Lessons/02-Data-Types)
+  - [Variables & Data Types](Lessons/02-Data-Types)
   - [looping](Lessons/03-Looping)
-  - [Logic and Comparisons](Lessons/04-Logic-n-comparisons)
+  - [Logic & Comparisons](Lessons/04-Logic-n-comparisons)
 - **🗒️Assessments**

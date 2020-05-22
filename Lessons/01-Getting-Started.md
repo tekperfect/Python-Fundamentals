@@ -8,6 +8,7 @@
 1. [📖 Discovering Python](#%f0%9f%93%96-discovering-python)
 1. [🐍 REPL - Python Interactive Shell](#%f0%9f%90%8d-repl-python-interactive-shell)
 1. [✏️ Python Syntax](#%e2%9c%8f%ef%b8%8f-python-syntax)
+1. [🍵 Programing](#%f0%9f%8d%b5-programing)
 1. [📚 Resources & Credits](#%f0%9f%93%9a-resources-amp-credits)
 
 ## 🏆 Learning Objectives
@@ -99,20 +100,47 @@ days = ['Monday', 'Tuesday', 'Wednesday',
 indentation Error:
 ```python
 if True:
-print "Answer"
-print "True"
+print("Answer")
+print("True")
 else:
-print "Answer"
-print "False"
+print("Answer")
+print("False")
 ```
 
 ```python
 if True:
-   print "True"
+   print("True")
 else:
-   print "False"
+   print("False")
 ```
 For more information refer to 📚 Resources & Credits
+
+## 🍵 Programing
+Let's jump in a bit of python first make a python file name `tekperfect.py`
+
+after lets `print` a respounce to the user using the `print()`, let's say "Hello World!"
+
+Now run the file with `python3`
+
+```python
+# Tekperfect.py
+print("Hello World!")
+```
+
+```bash
+$ python3 tekperfect.py
+Hello World!
+```
+How about we take some user input? try
+
+```python
+user = input("How's your day? ") # Try changing the content in the " "
+print(user)
+```
+Try running it yourself
+
+Try playing around with it yourself
+
 ## 📚 Resources & Credits
 
 - [Basic Syntax](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
